@@ -162,7 +162,7 @@
 <rect x="395" y="133" width="270" height="1" fill="#7ec8a0" opacity=".25"/>
 
 <!-- Subtítulo -->
-<text x="530" y="155" text-anchor="middle" class="pf sub">&lt; IT SOFTWARE DEVELOPER /&gt;</text>
+<text x="530" y="155" text-anchor="middle" class="pf sub">&lt; SOFTWARE DEVELOPER /&gt;</text>
 
 <!-- Tags de rol -->
 <rect x="400" y="167" width="78" height="20" fill="#0d2a1a" rx="2"/>
@@ -175,10 +175,10 @@
 <text x="624" y="181" text-anchor="middle" class="pf tag" fill="#e87070">// Python</text>
 
 <!-- Empresa actual -->
-<text x="530" y="210" text-anchor="middle" class="pf dim">@ Bosch &amp; Siemens Hausgeräte</text>
+<text x="530" y="210" text-anchor="middle" class="pf dim">@ Schneider Electric</text>
 
 <!-- Ciudad -->
-<text x="530" y="228" text-anchor="middle" class="pf dim">Apodaca, Nuevo León 🇲🇽</text>
+<text x="530" y="228" text-anchor="middle" class="pf dim">Nuevo León 🇲🇽</text>
 
 <!-- Cursor parpadeante -->
 <rect x="658" y="145" width="9" height="14" fill="#7ec8a0" class="cur"/>
