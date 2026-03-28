@@ -21,12 +21,11 @@
 ```js
 const alvaro = {
   nombre:      "Álvaro Jesús Cibrian Reyna",
-  ubicacion:   "Apodaca, Nuevo León 🇲🇽",
+  ubicacion:   "Nuevo León 🇲🇽",
   universidad: "UANL — FIME (Ing. en Tecnología de Software)",
-  rol_actual:  "IT Software Developer Intern @ Bosch & Siemens Hausgeräte",
+  rol_actual:  "IT Software Developer Intern en Schneider Electric",
   idiomas:     { español: "C2 Nativo", inglés: "C1 Avanzado" },
-  intereses:   ["Backend", "Data & BI", "Automatización RPA", "Lectura 📚"],
-  frase:       "El código es poesía — solo que la máquina la ejecuta.",
+  intereses:   ["Backend", "Data & BI", "Data Science", "Lectura 📚"],
 };
 ```
 
