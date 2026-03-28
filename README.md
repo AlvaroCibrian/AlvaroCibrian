@@ -1,82 +1,120 @@
-<!-- BANNER PRINCIPAL -->
+<!-- ============================================================
+     ÁLVARO JESÚS CIBRIAN REYNA — GitHub Profile README
+     IT Software Developer | UANL FIME | Apodaca, N.L.
+     ============================================================ -->
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🐸  A L V A R O   C I B R I A N  🐸                       ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║       < D E S A R R O L L A D O R   D E   S O F T W A R E / >  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- BANNER PIXEL ART — sube el archivo banner.svg a tu repo -->
+<img src="./banner.svg" alt="Alvaro Cibrian Banner" width="100%"/>
 
-<!-- Tipado animado con readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=7EC8A0&center=true&vCenter=true&width=600&lines=%3C+%2F+Desarrollador+de+Software+%3E;%7B+Amante+de+los+libros+%7D;%5B+Builder+of+Things+%5D;%2F%2F+Lifelong+Learner)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=7EC8A0&center=true&vCenter=true&width=650&lines=%7B+IT+Software+Developer+Intern+%7D;%5B+Bosch+%26+Siemens+Hausger%C3%A4te+%5D;%3C+UANL+FIME+%2F%3E;%2F%2F+Bookworm+%26+Builder+of+Things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧙 `whoami`
+## 🧙‍♂️ `whoami`
 
 ```js
 const alvaro = {
-  nombre:      "Alvaro Cibrian",
-  rol:         "Desarrollador de Software",
-  ubicacion:   "México 🇲🇽",
-  intereses:   ["Backend", "Frontend", "Arquitectura de Software", "Lectura 📚"],
+  nombre:      "Álvaro Jesús Cibrian Reyna",
+  ubicacion:   "Apodaca, Nuevo León 🇲🇽",
+  universidad: "UANL — FIME (Ing. en Tecnología de Software)",
+  rol_actual:  "IT Software Developer Intern @ Bosch & Siemens Hausgeräte",
+  idiomas:     { español: "C2 Nativo", inglés: "C1 Avanzado" },
+  intereses:   ["Backend", "Data & BI", "Automatización RPA", "Lectura 📚"],
   frase:       "El código es poesía — solo que la máquina la ejecuta.",
-  mascota:     "🐸 Un sapo mago con sombrero de estrellas",
 };
 ```
 
 ---
 
-## ⚔️ Stack de Tecnologías
-
-<!-- Puedes reemplazar los badges con los que uses tú -->
+## ⚔️ Stack Técnico
 
 **Lenguajes**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- Agrega o quita según tus lenguajes reales -->
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+**Business Intelligence & Automatización**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-<!-- Agrega: Django, FastAPI, Laravel, Spring, etc. según uses -->
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
 **Bases de Datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Herramientas**
+**Diseño & Prototipado**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Metodologías & Redes**
+
+![Scrum](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![PMBOK](https://img.shields.io/badge/PMBOK-0052CC?style=for-the-badge&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 📊 Estadísticas GitHub
+## 💼 Experiencia
+
+```python
+experiencia = [
+  {
+    "empresa":  "Bosch und Siemens Hausgeräte (BSH)",
+    "rol":      "IT Software Developer Intern",
+    "periodo":  "Dic 2024 — Actualidad",
+    "logros": [
+      "Dashboards en Power BI para monitoreo de procesos industriales",
+      "Automatizaciones RPA con UiPath",
+      "Apps en Power Apps para auditorías 5S y control de sensores",
+      "Sistema web para comedor corporativo (toma de decisiones)",
+      "Estandarización de seguridad de equipos en planta",
+    ]
+  },
+  {
+    "empresa":  "TresB Tec",
+    "rol":      "Practicante Desarrollador Junior",
+    "periodo":  "Sep 2024 — Nov 2024",
+    "logros": [
+      "Programación Back-End y Front-End (SPA)",
+      "Administración de bases de datos",
+      "Debugging y mantenimiento de sistemas",
+    ]
+  },
+]
+```
+
+---
+
+## 🎓 Certificaciones
+
+| 🏅 Certificado | 🏛 Institución | 📅 Año |
+|---|---|---|
+| Inteligencia de Negocios con Power BI | UANL FIME | 2025 |
+| Python Essentials 1 | Cisco | 2024 |
+| AI Fundamentals | IBM | 2024 |
+| Introduction to Data Science | Cisco | 2024 |
+| Desarrollador de Apps Móviles | Capacítate para el empleo | 2024 |
+| CCNA: Introduction to Networks | Cisco | 2023 |
+| Diplomado en Inglés (C1) | UANL FFyL | 2022–2024 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Cambia "AlvaroCibrian" por tu username real de GitHub -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AlvaroCibrian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7ec8a0&icon_color=f5d060&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroCibrian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7ec8a0&icon_color=f5d060&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCibrian&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ec8a0&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCibrian&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ec8a0&text_color=c9d1d9"/>
 
 </div>
 
@@ -91,46 +129,37 @@ const alvaro = {
 ## 📚 Actualmente...
 
 ```python
-# Estado actual del grimorio
 grimorio = {
-    "leyendo":      "[TU LIBRO ACTUAL]",          # ← Actualiza con el libro que leas
-    "aprendiendo":  "[TECNOLOGÍA QUE ESTUDIAS]",   # ← Ej: "Rust", "K8s", "Svelte"
-    "construyendo": "[TU PROYECTO ACTUAL]",         # ← Tu side project o trabajo
-    "escuchando":   "[TU PLAYLIST / PODCAST]",      # ← Opcional
+    "leyendo":      "...",          # ← Pon tu libro actual aquí
+    "aprendiendo":  ".NET / C#",
+    "construyendo": "Dashboard industrial en Power BI @ BSH",
+    "metodologia":  "SCRUM Sprint",
 }
-
 print("¡Siempre hay un hechizo nuevo que aprender! 🧙")
 ```
 
 ---
 
-## 🌐 Conéctate
+## 🌐 Conéctame
 
 <div align="center">
 
-<!-- Reemplaza los enlaces con los tuyos reales -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_LINKEDIN])
-[![Portfolio](https://img.shields.io/badge/Portfolio-7EC8A0?style=for-the-badge&logo=About.me&logoColor=white)](https://[TU_PORTFOLIO].com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_EMAIL])
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[TU_TWITTER])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarocibrian-41baa5310)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajcibrianr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvaroCibrian)
 
 </div>
 
 ---
 
-## 🐸 Un dato curioso
-
-```
-> "Un libro al día al médico te ahorra... bueno, al menos te hace más interesante."
-                                                         — El Sapo Mago 🎩
-```
-
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AlvaroCibrian&color=7ec8a0&style=for-the-badge&label=Visitas+al+grimorio)
+```
+> "Un libro al día al médico te ahorra...
+   bueno, al menos te hace más interesante."
+                        — El Sapo Mago 🐸🎩
+```
 
-<!-- Snake animation — actívala en GitHub Actions (instrucciones abajo) -->
-<!-- <img src="https://raw.githubusercontent.com/AlvaroCibrian/AlvaroCibrian/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/> -->
+![Visitor Count](https://komarev.com/ghpvc/?username=AlvaroCibrian&color=7ec8a0&style=for-the-badge&label=Visitas+al+Grimorio)
 
 </div>
