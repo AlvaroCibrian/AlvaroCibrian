@@ -25,7 +25,7 @@ const alvaro = {
   universidad: "UANL — FIME (Ing. en Tecnología de Software)",
   rol_actual:  "IT Software Developer Intern en Schneider Electric",
   idiomas:     { español: "C2 Nativo", inglés: "C1 Avanzado" },
-  intereses:   ["Backend", "Data & BI", "Data Science", "Lectura 📚"],
+  intereses:   ["Full Stack", "Data & BI", "Data Science", "Lectura 📚"],
 };
 ```
 
