@@ -126,20 +126,6 @@ experiencia = [
 
 ---
 
-## 📚 Actualmente...
-
-```python
-grimorio = {
-    "leyendo":      "...",          # ← Pon tu libro actual aquí
-    "aprendiendo":  ".NET / C#",
-    "construyendo": "Dashboard industrial en Power BI @ BSH",
-    "metodologia":  "SCRUM Sprint",
-}
-print("¡Siempre hay un hechizo nuevo que aprender! 🧙")
-```
-
----
-
 ## 🌐 Conéctame
 
 <div align="center">
@@ -153,12 +139,6 @@ print("¡Siempre hay un hechizo nuevo que aprender! 🧙")
 ---
 
 <div align="center">
-
-```
-> "Un libro al día al médico te ahorra...
-   bueno, al menos te hace más interesante."
-                        — El Sapo Mago 🐸🎩
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlvaroCibrian&color=7ec8a0&style=for-the-badge&label=Visitas+al+Grimorio)
 
